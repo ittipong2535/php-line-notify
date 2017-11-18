@@ -16,7 +16,7 @@ class LineNotify {
 
   const API_URL = 'https://notify-api.line.me/api/notify';
 
-  private $token = null;
+  private $token = XjnLlposcVcyUaAE096UNaTdk3Dt0M0htHkCW3spYnV;
   private $http = null;
   
   /**
